@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student
+🎓 Engineering Student<br>🔧 Passionate about learning, and solving real-world problems<br>📁 Working on academic & personal projects<br>📫 Reach out to me at  spandangowda4@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,4 +15,5 @@ I am a student
 ---
 [![](https://visitcount.itsvg.in/api?id=spandansr&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
