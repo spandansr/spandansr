@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:Hi I'm Spandan S R
 🎓 Engineering Student<br>🔧 Passionate about learning, and solving real-world problems<br>📁 Working on academic & personal projects<br>📫 Reach out to me at  spandangowda4@gmail.com
 
 
